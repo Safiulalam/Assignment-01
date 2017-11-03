@@ -1,0 +1,68 @@
+body{
+	background: beige;
+
+}
+
+h1{
+
+    text-align: center;
+    text-transform: capitalize;
+    color: sienna;
+    background: gold;}
+
+ table{
+ 	 border-collapse: collapse;
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+    font-size: 24px;
+ }   
+
+
+tr{
+
+}
+
+td{ 
+	
+    border: 1px solid #CDDC39;
+	
+	}
+
+
+th{
+    border: 1px solid #CDDC39;
+	background: lightseagreen;
+}
+
+.one{
+background: wheat;
+}
+.two{
+background: wheat;
+}
+.three{
+background: wheat;
+}
+.four{
+background: wheat;
+}
+.five{
+background: wheat;
+}
+.six{
+background: wheat;
+}
+.seven{
+background: wheat;
+
+}
+.eight{
+background: wheat;
+}
+.nine{
+background: wheat;
+}
+.ten{
+background: wheat;
+}
